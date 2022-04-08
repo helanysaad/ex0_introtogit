@@ -1,5 +1,5 @@
 Favorite color: white
-Favorite food: milk 
-Favorite musician/band: george wasof
-Favorite movie: titanic
+Favorite food: pizza
+Favorite musician/band: beyonce
+Favorite movie: avatar
 Requested grade in the course: 0
