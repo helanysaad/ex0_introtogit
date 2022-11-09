@@ -1,5 +1,5 @@
-Favorite color: white
-Favorite food: pizza
-Favorite musician/band: beyonce
-Favorite movie: avatar
-Requested grade in the course: 0
+Favorite color:
+Favorite food:
+Favorite musician/band:
+Favorite movie:
+Requested grade in the course:
